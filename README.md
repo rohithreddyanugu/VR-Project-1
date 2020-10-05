@@ -47,6 +47,13 @@ In the above picture we can see that pikachu is at a position that is close to t
 
 In this picture we can see that pikachu is at another position, that is far away from the blackboard.
 
+And this animation for change of position can be obtained by using this piece of code.
+
+     ``` 
+      <a-entity geometry="primitive: box" color="blue" rotation="0 0 0" position="1 1.3 -10.5 " scale="3.5 3.5 3.5" obj-model="position:1 1.3 -10.5 ;obj:#pikachuO; mtl:#pikachuM"  class="intersectable" >
+      <a-animation begin="click" attribute="position" from="1 1.3 -10.5" to= "1 1.3 -0.5 " dur="3000" direction="alternate" easing="ease-in-out" ></a-animation>   
+      <a-animation end="click" attribute="position" from="1 1.3 -0.5" to= "1 1.3 -10.5" dur="3000" direction="alternate" easing="ease-in-out" ></a-animation>   
+```
 
 ### **Study room**
 :one: Refrigirator   
