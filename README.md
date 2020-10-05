@@ -31,7 +31,17 @@ The Room also contains several posters on the floor and also on the walls that e
 ![alt text](https://github.com/rohithreddyanugu/VR-Project-1/blob/main/2020-09-27%20(6).png)
 ![alt text](https://github.com/rohithreddyanugu/VR-Project-1/blob/main/2020-09-27%20(12).png)
 
+### A picture that shows the top view of the room.
+This picture shows the top view of the VR Study hall that is created.
+![alt text](https://github.com/rohithreddyanugu/VR-Project-1/blob/main/top%20view.png)
 
+
+### Dynamic moving object change of position.
+The change of position of pikachu from one position to the other cab be demonstrated in the picture below.
+[alt text](https://github.com/rohithreddyanugu/VR-Project-1/blob/main/2020-10-04%20(5).png)
+In the above picture we can see that pikachu is at a position that is close to the blackboard.
+[alt text](https://github.com/rohithreddyanugu/VR-Project-1/blob/main/2020-10-04%20(6).png)
+In this picture we can see that pikachu is at another position, that is far away from the blackboard.
 
 
 ### **Study room**
