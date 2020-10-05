@@ -4,7 +4,7 @@
 ## How covid-19 effected your surroundings
 
 Demo link :arrow_forward: https://rohithreddyanugu.github.io/VR-Project-1/     
-Video :point_right: :point_right: https://www.youtube.com/watch?v=y7DYMudcT2c&feature=youtu.be  :point_left: :point_left:
+Video :point_right: :point_right:https://youtu.be/nNR9FYp3B1A  :point_left: :point_left:
 
 ## Features:
 :arrow_right: Language:  a-frame:heavy_plus_sign: three.js
