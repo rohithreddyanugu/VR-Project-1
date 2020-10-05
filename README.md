@@ -20,6 +20,7 @@ Video :point_right: :point_right: https://www.youtube.com/watch?v=y7DYMudcT2c&fe
 
 ### Room layout
 The screenshots below show different angles of the room and the various models in the room. The room is a rectangle with a size of 22 by 23. Most of the models that are used in this room were from [Poly](https://poly.google.com/). The room was first made using [Glitch](https://glitch.com/) then imported to GitHub. There are  different lights in the room, 3 are used to show orange fading lights on the object. The last light is used for lighting the room with an ambient light. The dynamic objects in the room are the ceiling fan and the pikachu. The fan rotates at it's position in clockwise direction whereas pikachu moves from one point to the other and also produces a sound pikaa pikkaa!! when you click on the position given to it.
+The Room also contains several posters on the floor and also on the walls that encourages to stay safe by maintaining social distance, regularily sanitizing of hands and by wearing masks.
 
 ### The pictures shows an overview of the how the room is!
 
