@@ -17,8 +17,8 @@ Video :point_right: :point_right: https://www.youtube.com/watch?v=y7DYMudcT2c&fe
       </a-asset-item>
       <a-asset-item id="CeilingfanM" src="https://cdn.glitch.com/1eae885f-ae53-4ff4-8f1d-24b94e81e988%2F74e63c0c-df5a-4f88-a0dc-e7118cf071c5_540%20Ceiling%20Fan.mtl?v=1600892224
       
-      a-obj-model rotation="0 90 0" position="11 1.5 -2" scale="2 4 2" src="#BookShelfO" mtl="#CeilingFanM"></a-obj-model>
-      <a-obj-model rotation="0 90 0" position="11 1.5 -2" scale="2 4 2" src="#BookShelfO" mtl="#CeilingFanM"></a-obj-model>
+      a-obj-model rotation="0 90 0" position="11 1.5 -2" scale="2 4 2" src="#CeilingFanO" mtl="#CeilingFanM"></a-obj-model>
+      
 ```
 
 ### Room layout
